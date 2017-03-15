@@ -1,11 +1,12 @@
 # D-scanner
-This tool works on google dorks .And Find Sql vuln sites. this tool is in php-Cli..Means Command line interface php... 
+This tool works on google dorks .And Find Sql vuln sites.
+This tool is wrtten in php-Cli..Means Command line interface php... 
 
 you can run it through command.
 
- To run it on windowsml. 
-
-You need to install Xammp after that copy this tool to C:\xampp\php
+ To run it on windows.
+ 
+You need to install Xammp after that copy this dscan.php  tool to C:\xampp\php
 
 And open cmd and move your cmd to that folder by cd command...
 as
